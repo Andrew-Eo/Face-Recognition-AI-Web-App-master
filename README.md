@@ -14,8 +14,6 @@ Data Modelling: Trained data using Support Vector Classifier and achieved accura
 
 Developed web server gateway interphase in flask by rendering HTML, CSS and bootstrap in the frontend and backend written in Python.
 
-Time spent: *2* hours spent in total
-
 ## User Stories
 
 The following *required* functionality is complete:
